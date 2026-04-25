@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Birds can fly in the sky. Where do birds fly?",
+    "options": ["Water", "Sky", "Land", "Forest"],
+    "answer": "Sky"
+  },
+  {
+    "id": 2,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Fish live in water. Where do fish live?",
+    "options": ["Land", "Sky", "Water", "Trees"],
+    "answer": "Water"
+  },
+  {
+    "id": 3,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Dogs bark loudly. What do dogs do?",
+    "options": ["Sing", "Bark", "Fly", "Swim"],
+    "answer": "Bark"
+  },
+  {
+    "id": 4,
+    "topic": "Reading Comprehension",
+    "question": "Passage: The moon shines at night. When does the moon shine?",
+    "options": ["Morning", "Afternoon", "Night", "Evening"],
+    "answer": "Night"
+  },
+  {
+    "id": 5,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Plants need water to grow. What do plants need?",
+    "options": ["Fire", "Water", "Sand", "Smoke"],
+    "answer": "Water"
+  },
+  {
+    "id": 6,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Lions are wild animals. What are lions?",
+    "options": ["Domestic animals", "Wild animals", "Birds", "Fish"],
+    "answer": "Wild animals"
+  },
+  {
+    "id": 7,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Ice is cold. How is ice?",
+    "options": ["Hot", "Warm", "Cold", "Dry"],
+    "answer": "Cold"
+  },
+  {
+    "id": 8,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Fire is hot. What is fire?",
+    "options": ["Cold", "Wet", "Hot", "Soft"],
+    "answer": "Hot"
+  },
+  {
+    "id": 9,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Cars run on roads. Where do cars run?",
+    "options": ["Sky", "Water", "Roads", "Mountains"],
+    "answer": "Roads"
+  },
+  {
+    "id": 10,
+    "topic": "Reading Comprehension",
+    "question": "Passage: Teachers teach students. What do teachers do?",
+    "options": ["Play", "Teach", "Sleep", "Run"],
+    "answer": "Teach"
+  },
+
+  {
+    "id": 11,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Big'",
+    "options": ["Small", "Large", "Tiny", "Short"],
+    "answer": "Large"
+  },
+  {
+    "id": 12,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Fast'",
+    "options": ["Slow", "Quick", "Late", "Lazy"],
+    "answer": "Quick"
+  },
+  {
+    "id": 13,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Smart'",
+    "options": ["Dull", "Clever", "Weak", "Slow"],
+    "answer": "Clever"
+  },
+  {
+    "id": 14,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Strong'",
+    "options": ["Weak", "Powerful", "Soft", "Light"],
+    "answer": "Powerful"
+  },
+  {
+    "id": 15,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Begin'",
+    "options": ["End", "Start", "Stop", "Pause"],
+    "answer": "Start"
+  },
+  {
+    "id": 16,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Rich'",
+    "options": ["Poor", "Wealthy", "Hungry", "Weak"],
+    "answer": "Wealthy"
+  },
+  {
+    "id": 17,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Easy'",
+    "options": ["Hard", "Simple", "Difficult", "Tough"],
+    "answer": "Simple"
+  },
+  {
+    "id": 18,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Silent'",
+    "options": ["Loud", "Quiet", "Noisy", "Shouting"],
+    "answer": "Quiet"
+  },
+  {
+    "id": 19,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Clean'",
+    "options": ["Dirty", "Neat", "Messy", "Rough"],
+    "answer": "Neat"
+  },
+  {
+    "id": 20,
+    "topic": "Synonyms",
+    "question": "Choose synonym of 'Brave'",
+    "options": ["Fearful", "Courageous", "Weak", "Lazy"],
+    "answer": "Courageous"
+  },
+
+  {
+    "id": 21,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Big'",
+    "options": ["Large", "Huge", "Small", "Wide"],
+    "answer": "Small"
+  },
+  {
+    "id": 22,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Fast'",
+    "options": ["Quick", "Rapid", "Slow", "Speedy"],
+    "answer": "Slow"
+  },
+  {
+    "id": 23,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Happy'",
+    "options": ["Joyful", "Sad", "Glad", "Cheerful"],
+    "answer": "Sad"
+  },
+  {
+    "id": 24,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Strong'",
+    "options": ["Powerful", "Weak", "Solid", "Tough"],
+    "answer": "Weak"
+  },
+  {
+    "id": 25,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Light'",
+    "options": ["Bright", "Heavy", "Soft", "Clear"],
+    "answer": "Heavy"
+  },
+  {
+    "id": 26,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Early'",
+    "options": ["Late", "Soon", "Quick", "Fast"],
+    "answer": "Late"
+  },
+  {
+    "id": 27,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Open'",
+    "options": ["Close", "Shut", "Closed", "Lock"],
+    "answer": "Closed"
+  },
+  {
+    "id": 28,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Tall'",
+    "options": ["Short", "High", "Long", "Big"],
+    "answer": "Short"
+  },
+  {
+    "id": 29,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Clean'",
+    "options": ["Neat", "Dirty", "Fresh", "Pure"],
+    "answer": "Dirty"
+  },
+  {
+    "id": 30,
+    "topic": "Antonyms",
+    "question": "Choose antonym of 'Old'",
+    "options": ["Ancient", "New", "Aged", "Used"],
+    "answer": "New"
+  },
+  {
+    "id": 31,
+    "topic": "Sentence Correction",
+    "question": "Neither of the boys ___ completed the assignment.",
+    "options": ["have", "has", "were", "are"],
+    "answer": "has"
+  },
+  {
+    "id": 32,
+    "topic": "Sentence Correction",
+    "question": "Each of the players ___ given a certificate.",
+    "options": ["were", "are", "was", "have"],
+    "answer": "was"
+  },
+  {
+    "id": 33,
+    "topic": "Sentence Correction",
+    "question": "She has been working here ___ five years.",
+    "options": ["since", "for", "from", "at"],
+    "answer": "for"
+  },
+  {
+    "id": 34,
+    "topic": "Sentence Correction",
+    "question": "He is one of the best students who ___ passed the exam.",
+    "options": ["has", "have", "was", "is"],
+    "answer": "have"
+  },
+  {
+    "id": 35,
+    "topic": "Sentence Correction",
+    "question": "No sooner ___ he reached than it started raining.",
+    "options": ["had", "has", "did", "was"],
+    "answer": "had"
+  },
+  {
+    "id": 36,
+    "topic": "Sentence Correction",
+    "question": "The teacher, along with the students, ___ going on a trip.",
+    "options": ["are", "were", "is", "have"],
+    "answer": "is"
+  },
+  {
+    "id": 37,
+    "topic": "Sentence Correction",
+    "question": "Scarcely ___ the train left when he arrived.",
+    "options": ["had", "has", "did", "was"],
+    "answer": "had"
+  },
+  {
+    "id": 38,
+    "topic": "Sentence Correction",
+    "question": "He speaks English ___ than his brother.",
+    "options": ["better", "best", "good", "well"],
+    "answer": "better"
+  },
+  {
+    "id": 39,
+    "topic": "Sentence Correction",
+    "question": "She prefers tea ___ coffee.",
+    "options": ["than", "to", "over", "with"],
+    "answer": "to"
+  },
+  {
+    "id": 40,
+    "topic": "Sentence Correction",
+    "question": "By next year, she ___ completed her degree.",
+    "options": ["will", "will have", "has", "had"],
+    "answer": "will have"
+  },
+
+  {
+    "id": 41,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) quickly (2) he (3) ran (4) home",
+    "options": ["2-3-1-4", "2-1-3-4", "3-2-1-4", "2-3-4-1"],
+    "answer": "2-3-1-4"
+  },
+  {
+    "id": 42,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) reading (2) enjoys (3) she (4) books",
+    "options": ["3-2-1-4", "2-3-1-4", "3-1-2-4", "3-2-4-1"],
+    "answer": "3-2-1-4"
+  },
+  {
+    "id": 43,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) always (2) arrives (3) he (4) early",
+    "options": ["3-1-2-4", "3-2-1-4", "1-3-2-4", "3-2-4-1"],
+    "answer": "3-1-2-4"
+  },
+  {
+    "id": 44,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) the (2) barking (3) dog (4) loudly",
+    "options": ["1-3-2-4", "1-2-3-4", "3-2-1-4", "2-3-1-4"],
+    "answer": "1-3-2-4"
+  },
+  {
+    "id": 45,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) a (2) beautiful (3) garden (4) is",
+    "options": ["4-1-2-3", "1-2-3-4", "4-2-1-3", "2-1-3-4"],
+    "answer": "4-1-2-3"
+  },
+  {
+    "id": 46,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) yesterday (2) went (3) we (4) shopping",
+    "options": ["3-2-4-1", "3-2-1-4", "2-3-4-1", "3-4-2-1"],
+    "answer": "3-2-4-1"
+  },
+  {
+    "id": 47,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) never (2) I (3) seen (4) have",
+    "options": ["2-4-1-3", "2-1-4-3", "4-2-1-3", "2-4-3-1"],
+    "answer": "2-4-1-3"
+  },
+  {
+    "id": 48,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) the (2) shining (3) sun (4) brightly",
+    "options": ["1-3-2-4", "1-2-3-4", "3-2-1-4", "2-3-1-4"],
+    "answer": "1-2-3-4"
+  },
+  {
+    "id": 49,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) playing (2) children (3) are (4) outside",
+    "options": ["2-3-1-4", "3-2-1-4", "2-1-3-4", "2-3-4-1"],
+    "answer": "2-3-1-4"
+  },
+  {
+    "id": 50,
+    "topic": "Sentence Rearrangement",
+    "question": "Arrange: (1) always (2) she (3) smiles (4) happily",
+    "options": ["2-1-3-4", "2-3-1-4", "1-2-3-4", "2-3-4-1"],
+    "answer": "2-1-3-4"
+  },
+
+  {
+    "id": 51,
+    "topic": "Fill in the Blanks",
+    "question": "Hardly had he arrived ___ the meeting started.",
+    "options": ["when", "than", "then", "while"],
+    "answer": "when"
+  },
+  {
+    "id": 52,
+    "topic": "Fill in the Blanks",
+    "question": "She is fond ___ classical music.",
+    "options": ["of", "for", "with", "on"],
+    "answer": "of"
+  },
+  {
+    "id": 53,
+    "topic": "Fill in the Blanks",
+    "question": "He insisted ___ paying the bill.",
+    "options": ["on", "to", "for", "in"],
+    "answer": "on"
+  },
+  {
+    "id": 54,
+    "topic": "Fill in the Blanks",
+    "question": "They are looking forward ___ the holidays.",
+    "options": ["to", "for", "with", "on"],
+    "answer": "to"
+  },
+  {
+    "id": 55,
+    "topic": "Fill in the Blanks",
+    "question": "She is capable ___ solving the problem.",
+    "options": ["of", "for", "with", "in"],
+    "answer": "of"
+  },
+  {
+    "id": 56,
+    "topic": "Fill in the Blanks",
+    "question": "He apologized ___ being late.",
+    "options": ["for", "to", "with", "on"],
+    "answer": "for"
+  },
+  {
+    "id": 57,
+    "topic": "Fill in the Blanks",
+    "question": "She is married ___ a doctor.",
+    "options": ["to", "with", "by", "for"],
+    "answer": "to"
+  },
+  {
+    "id": 58,
+    "topic": "Fill in the Blanks",
+    "question": "He is afraid ___ snakes.",
+    "options": ["of", "from", "with", "about"],
+    "answer": "of"
+  },
+  {
+    "id": 59,
+    "topic": "Fill in the Blanks",
+    "question": "The book is divided ___ three parts.",
+    "options": ["into", "in", "between", "among"],
+    "answer": "into"
+  },
+  {
+    "id": 60,
+    "topic": "Fill in the Blanks",
+    "question": "She succeeded ___ her efforts.",
+    "options": ["through", "in", "by", "with"],
+    "answer": "in"
+  },
+  {
+    "id": 61,
+    "topic": "Error Detection",
+    "question": "Each of the students have submitted their assignment.",
+    "options": ["No error", "have→has", "their→his/her", "students→student"],
+    "answer": "have→has"
+  },
+  {
+    "id": 62,
+    "topic": "Error Detection",
+    "question": "Neither of the answers are correct.",
+    "options": ["No error", "are→is", "answers→answer", "Neither→None"],
+    "answer": "are→is"
+  },
+  {
+    "id": 63,
+    "topic": "Error Detection",
+    "question": "He did not knew the answer.",
+    "options": ["No error", "knew→know", "did→does", "answer→answers"],
+    "answer": "knew→know"
+  },
+  {
+    "id": 64,
+    "topic": "Error Detection",
+    "question": "She is senior than me.",
+    "options": ["No error", "senior than→senior to", "is→was", "me→I"],
+    "answer": "senior than→senior to"
+  },
+  {
+    "id": 65,
+    "topic": "Error Detection",
+    "question": "One of my friend is coming today.",
+    "options": ["No error", "friend→friends", "is→are", "One→Ones"],
+    "answer": "friend→friends"
+  },
+  {
+    "id": 66,
+    "topic": "Error Detection",
+    "question": "He is good in mathematics.",
+    "options": ["No error", "in→at", "good→well", "mathematics→maths"],
+    "answer": "in→at"
+  },
+  {
+    "id": 67,
+    "topic": "Error Detection",
+    "question": "She has less books than me.",
+    "options": ["No error", "less→fewer", "has→have", "me→I"],
+    "answer": "less→fewer"
+  },
+  {
+    "id": 68,
+    "topic": "Error Detection",
+    "question": "He is working here since two years.",
+    "options": ["No error", "since→for", "is→was", "working→worked"],
+    "answer": "since→for"
+  },
+  {
+    "id": 69,
+    "topic": "Error Detection",
+    "question": "The sceneries here are beautiful.",
+    "options": ["No error", "sceneries→scenery", "are→is", "beautiful→beauty"],
+    "answer": "sceneries→scenery"
+  },
+  {
+    "id": 70,
+    "topic": "Error Detection",
+    "question": "She returned back home late.",
+    "options": ["No error", "returned back→returned", "late→lately", "home→to home"],
+    "answer": "returned back→returned"
+  },
+
+  {
+    "id": 71,
+    "topic": "Sentence Completion",
+    "question": "Hardly had I reached the station when the train ___.",
+    "options": ["leaves", "left", "had left", "leaving"],
+    "answer": "left"
+  },
+  {
+    "id": 72,
+    "topic": "Sentence Completion",
+    "question": "If I ___ known about the meeting, I would have attended.",
+    "options": ["have", "had", "would have", "has"],
+    "answer": "had"
+  },
+  {
+    "id": 73,
+    "topic": "Sentence Completion",
+    "question": "She speaks as if she ___ everything.",
+    "options": ["knows", "knew", "known", "knowing"],
+    "answer": "knew"
+  },
+  {
+    "id": 74,
+    "topic": "Sentence Completion",
+    "question": "No sooner did he arrive ___ the phone rang.",
+    "options": ["than", "when", "then", "while"],
+    "answer": "than"
+  },
+  {
+    "id": 75,
+    "topic": "Sentence Completion",
+    "question": "He is too tired ___ continue working.",
+    "options": ["to", "for", "so", "that"],
+    "answer": "to"
+  },
+  {
+    "id": 76,
+    "topic": "Sentence Completion",
+    "question": "The teacher asked the students ___ quiet.",
+    "options": ["be", "to be", "being", "been"],
+    "answer": "to be"
+  },
+  {
+    "id": 77,
+    "topic": "Sentence Completion",
+    "question": "She would rather ___ at home than go out.",
+    "options": ["stay", "stays", "stayed", "staying"],
+    "answer": "stay"
+  },
+  {
+    "id": 78,
+    "topic": "Sentence Completion",
+    "question": "Unless you ___ hard, you will not succeed.",
+    "options": ["worked", "work", "working", "works"],
+    "answer": "work"
+  },
+  {
+    "id": 79,
+    "topic": "Sentence Completion",
+    "question": "He denied ___ the money.",
+    "options": ["take", "taking", "took", "taken"],
+    "answer": "taking"
+  },
+  {
+    "id": 80,
+    "topic": "Sentence Completion",
+    "question": "She is used to ___ early.",
+    "options": ["wake", "waking", "woke", "wakes"],
+    "answer": "waking"
+  },
+
+  {
+    "id": 81,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Meticulous'",
+    "options": ["Careless", "Very careful", "Lazy", "Fast"],
+    "answer": "Very careful"
+  },
+  {
+    "id": 82,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Obsolete'",
+    "options": ["Modern", "Outdated", "Expensive", "Useful"],
+    "answer": "Outdated"
+  },
+  {
+    "id": 83,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Ambiguous'",
+    "options": ["Clear", "Confusing", "Happy", "Strong"],
+    "answer": "Confusing"
+  },
+  {
+    "id": 84,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Reluctant'",
+    "options": ["Willing", "Unwilling", "Happy", "Excited"],
+    "answer": "Unwilling"
+  },
+  {
+    "id": 85,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Benevolent'",
+    "options": ["Kind", "Cruel", "Lazy", "Angry"],
+    "answer": "Kind"
+  },
+  {
+    "id": 86,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Vivid'",
+    "options": ["Dull", "Bright and clear", "Weak", "Slow"],
+    "answer": "Bright and clear"
+  },
+  {
+    "id": 87,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Scarce'",
+    "options": ["Abundant", "Rare", "Cheap", "Big"],
+    "answer": "Rare"
+  },
+  {
+    "id": 88,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Robust'",
+    "options": ["Weak", "Strong", "Lazy", "Small"],
+    "answer": "Strong"
+  },
+  {
+    "id": 89,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Prudent'",
+    "options": ["Careful", "Careless", "Fast", "Angry"],
+    "answer": "Careful"
+  },
+  {
+    "id": 90,
+    "topic": "Vocabulary",
+    "question": "Meaning of 'Tedious'",
+    "options": ["Interesting", "Boring", "Fast", "Easy"],
+    "answer": "Boring"
+  },
+
+  {
+    "id": 91,
+    "topic": "Idioms and Phrases",
+    "question": "Hit the nail on the head means",
+    "options": ["Miss the point", "Be exactly right", "Hit something", "Work hard"],
+    "answer": "Be exactly right"
+  },
+  {
+    "id": 92,
+    "topic": "Idioms and Phrases",
+    "question": "A blessing in disguise means",
+    "options": ["A bad thing", "A hidden benefit", "A surprise", "A lie"],
+    "answer": "A hidden benefit"
+  },
+  {
+    "id": 93,
+    "topic": "Idioms and Phrases",
+    "question": "Burn the midnight oil means",
+    "options": ["Sleep early", "Work late at night", "Burn oil", "Waste time"],
+    "answer": "Work late at night"
+  },
+  {
+    "id": 94,
+    "topic": "Idioms and Phrases",
+    "question": "Once in a blue moon means",
+    "options": ["Very often", "Rarely", "Always", "Sometimes"],
+    "answer": "Rarely"
+  },
+  {
+    "id": 95,
+    "topic": "Idioms and Phrases",
+    "question": "Spill the beans means",
+    "options": ["Cook food", "Reveal a secret", "Make noise", "Waste money"],
+    "answer": "Reveal a secret"
+  },
+  {
+    "id": 96,
+    "topic": "Idioms and Phrases",
+    "question": "Piece of cake means",
+    "options": ["Very easy", "Very hard", "Delicious", "Expensive"],
+    "answer": "Very easy"
+  },
+  {
+    "id": 97,
+    "topic": "Idioms and Phrases",
+    "question": "Under the weather means",
+    "options": ["Happy", "Sick", "Angry", "Excited"],
+    "answer": "Sick"
+  },
+  {
+    "id": 98,
+    "topic": "Idioms and Phrases",
+    "question": "Cost an arm and a leg means",
+    "options": ["Cheap", "Very expensive", "Free", "Heavy"],
+    "answer": "Very expensive"
+  },
+  {
+    "id": 99,
+    "topic": "Idioms and Phrases",
+    "question": "The ball is in your court means",
+    "options": ["Your turn to act", "Play game", "Wait", "Lose chance"],
+    "answer": "Your turn to act"
+  },
+  {
+    "id": 100,
+    "topic": "Idioms and Phrases",
+    "question": "Bite the bullet means",
+    "options": ["Avoid pain", "Face difficulty bravely", "Run away", "Get angry"],
+    "answer": "Face difficulty bravely"
+  },
+  {
+    "id": 101,
+    "topic": "One Word Substitution",
+    "question": "A person who speaks many languages fluently",
+    "options": ["Linguist", "Polyglot", "Orator", "Bilingual"],
+    "answer": "Polyglot"
+  },
+  {
+    "id": 102,
+    "topic": "One Word Substitution",
+    "question": "A person who loves books excessively",
+    "options": ["Bibliophile", "Scholar", "Editor", "Author"],
+    "answer": "Bibliophile"
+  },
+  {
+    "id": 103,
+    "topic": "One Word Substitution",
+    "question": "One who hates mankind",
+    "options": ["Philanthropist", "Misanthrope", "Introvert", "Egoist"],
+    "answer": "Misanthrope"
+  },
+  {
+    "id": 104,
+    "topic": "One Word Substitution",
+    "question": "A person who doubts everything",
+    "options": ["Optimist", "Realist", "Skeptic", "Pessimist"],
+    "answer": "Skeptic"
+  },
+  {
+    "id": 105,
+    "topic": "One Word Substitution",
+    "question": "One who studies ancient things",
+    "options": ["Geologist", "Archaeologist", "Historian", "Anthropologist"],
+    "answer": "Archaeologist"
+  },
+  {
+    "id": 106,
+    "topic": "One Word Substitution",
+    "question": "A person who cannot be corrected",
+    "options": ["Incurable", "Incorrigible", "Indecisive", "Insensitive"],
+    "answer": "Incorrigible"
+  },
+  {
+    "id": 107,
+    "topic": "One Word Substitution",
+    "question": "A government by the people",
+    "options": ["Monarchy", "Aristocracy", "Democracy", "Autocracy"],
+    "answer": "Democracy"
+  },
+  {
+    "id": 108,
+    "topic": "One Word Substitution",
+    "question": "A person who is indifferent to pleasure or pain",
+    "options": ["Stoic", "Emotional", "Sensitive", "Active"],
+    "answer": "Stoic"
+  },
+  {
+    "id": 109,
+    "topic": "One Word Substitution",
+    "question": "One who speaks less",
+    "options": ["Taciturn", "Verbose", "Orator", "Loud"],
+    "answer": "Taciturn"
+  },
+  {
+    "id": 110,
+    "topic": "One Word Substitution",
+    "question": "A place where animals are slaughtered",
+    "options": ["Sanctuary", "Zoo", "Slaughterhouse", "Stable"],
+    "answer": "Slaughterhouse"
+  },
+
+  {
+    "id": 111,
+    "topic": "Active Passive Voice",
+    "question": "They will have completed the project by tomorrow. (Passive)",
+    "options": [
+      "The project will have been completed by them by tomorrow",
+      "The project will be completed by them tomorrow",
+      "They will be completed the project",
+      "The project is completed by them tomorrow"
+    ],
+    "answer": "The project will have been completed by them by tomorrow"
+  },
+  {
+    "id": 112,
+    "topic": "Active Passive Voice",
+    "question": "Someone has stolen my wallet. (Passive)",
+    "options": [
+      "My wallet has been stolen",
+      "My wallet was stolen by someone",
+      "My wallet is stolen",
+      "Someone was stolen my wallet"
+    ],
+    "answer": "My wallet has been stolen"
+  },
+  {
+    "id": 113,
+    "topic": "Active Passive Voice",
+    "question": "They are painting the house. (Passive)",
+    "options": [
+      "The house is being painted by them",
+      "The house is painted by them",
+      "They are being painted house",
+      "The house was painted by them"
+    ],
+    "answer": "The house is being painted by them"
+  },
+  {
+    "id": 114,
+    "topic": "Active Passive Voice",
+    "question": "She had finished the work before I arrived. (Passive)",
+    "options": [
+      "The work had been finished by her before I arrived",
+      "The work is finished before I arrived",
+      "She was finished the work",
+      "The work has been finished before I arrived"
+    ],
+    "answer": "The work had been finished by her before I arrived"
+  },
+  {
+    "id": 115,
+    "topic": "Active Passive Voice",
+    "question": "People speak English all over the world. (Passive)",
+    "options": [
+      "English is spoken all over the world",
+      "English was spoken all over the world",
+      "English speaks all over the world",
+      "People are spoken English"
+    ],
+    "answer": "English is spoken all over the world"
+  },
+  {
+    "id": 116,
+    "topic": "Active Passive Voice",
+    "question": "They had been repairing the road. (Passive)",
+    "options": [
+      "The road had been being repaired by them",
+      "The road was repaired by them",
+      "The road is being repaired",
+      "They were repairing road"
+    ],
+    "answer": "The road had been being repaired by them"
+  },
+  {
+    "id": 117,
+    "topic": "Active Passive Voice",
+    "question": "The manager will approve the request. (Passive)",
+    "options": [
+      "The request will be approved by the manager",
+      "The request is approved by manager",
+      "The request was approved",
+      "Manager will approved request"
+    ],
+    "answer": "The request will be approved by the manager"
+  },
+  {
+    "id": 118,
+    "topic": "Active Passive Voice",
+    "question": "She is writing a novel. (Passive)",
+    "options": [
+      "A novel is being written by her",
+      "A novel was written by her",
+      "She is written a novel",
+      "A novel is written by her"
+    ],
+    "answer": "A novel is being written by her"
+  },
+  {
+    "id": 119,
+    "topic": "Active Passive Voice",
+    "question": "They had completed the task. (Passive)",
+    "options": [
+      "The task had been completed by them",
+      "The task is completed by them",
+      "The task was being completed",
+      "They were completed task"
+    ],
+    "answer": "The task had been completed by them"
+  },
+  {
+    "id": 120,
+    "topic": "Active Passive Voice",
+    "question": "We must follow the rules. (Passive)",
+    "options": [
+      "The rules must be followed",
+      "The rules are followed by us",
+      "We are followed rules",
+      "Rules must followed"
+    ],
+    "answer": "The rules must be followed"
+  },
+  {
+    "id": 121,
+    "topic": "Direct Indirect Speech",
+    "question": "He said, \"I may leave for Delhi tomorrow.\"",
+    "options": [
+      "He said he may leave for Delhi tomorrow",
+      "He said he might leave for Delhi the next day",
+      "He says he might leave for Delhi tomorrow",
+      "He said I might leave for Delhi the next day"
+    ],
+    "answer": "He said he might leave for Delhi the next day"
+  },
+  {
+    "id": 122,
+    "topic": "Direct Indirect Speech",
+    "question": "She said, \"I have been waiting for you for two hours.\"",
+    "options": [
+      "She said she has been waiting for me for two hours",
+      "She said she had been waiting for me for two hours",
+      "She says she had been waiting for me",
+      "She said she was waiting for me for two hours"
+    ],
+    "answer": "She said she had been waiting for me for two hours"
+  },
+  {
+    "id": 123,
+    "topic": "Direct Indirect Speech",
+    "question": "He said, \"Where did you go yesterday?\"",
+    "options": [
+      "He asked where I went yesterday",
+      "He asked where I had gone the previous day",
+      "He asked where did I go yesterday",
+      "He said where I had gone"
+    ],
+    "answer": "He asked where I had gone the previous day"
+  },
+  {
+    "id": 124,
+    "topic": "Direct Indirect Speech",
+    "question": "She said, \"Do you know the answer?\"",
+    "options": [
+      "She asked if I knew the answer",
+      "She asked do I know the answer",
+      "She said if I know the answer",
+      "She asked that I knew the answer"
+    ],
+    "answer": "She asked if I knew the answer"
+  },
+  {
+    "id": 125,
+    "topic": "Direct Indirect Speech",
+    "question": "He said, \"Let us start the meeting.\"",
+    "options": [
+      "He suggested starting the meeting",
+      "He said to start the meeting",
+      "He told that start the meeting",
+      "He suggested to start the meeting"
+    ],
+    "answer": "He suggested starting the meeting"
+  },
+
+  {
+    "id": 126,
+    "topic": "Cloze Test",
+    "question": "Hardly had he reached the station ____ the train left.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "and"
+    ],
+    "answer": "when"
+  },
+  {
+    "id": 127,
+    "topic": "Cloze Test",
+    "question": "No sooner had she finished her work ____ she went out.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "and"
+    ],
+    "answer": "than"
+  },
+  {
+    "id": 128,
+    "topic": "Cloze Test",
+    "question": "If he ____ harder, he would have passed the exam.",
+    "options": [
+      "studied",
+      "had studied",
+      "studies",
+      "studying"
+    ],
+    "answer": "had studied"
+  },
+  {
+    "id": 129,
+    "topic": "Cloze Test",
+    "question": "She is looking forward to ____ you again.",
+    "options": [
+      "see",
+      "seeing",
+      "seen",
+      "saw"
+    ],
+    "answer": "seeing"
+  },
+  {
+    "id": 130,
+    "topic": "Cloze Test",
+    "question": "He would rather ____ at home than go out.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "answer": "stay"
+  },
+
+  {
+    "id": 131,
+    "topic": "Cloze Test",
+    "question": "The manager insisted that the work ____ completed immediately.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "being"
+    ],
+    "answer": "be"
+  },
+  {
+    "id": 132,
+    "topic": "Cloze Test",
+    "question": "Scarcely had he spoken ____ the audience interrupted him.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "and"
+    ],
+    "answer": "when"
+  },
+  {
+    "id": 133,
+    "topic": "Cloze Test",
+    "question": "She behaves as if she ____ everything.",
+    "options": [
+      "knows",
+      "knew",
+      "has known",
+      "knowing"
+    ],
+    "answer": "knew"
+  },
+  {
+    "id": 134,
+    "topic": "Cloze Test",
+    "question": "By the time we reached, the movie ____ already started.",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "having"
+    ],
+    "answer": "had"
+  },
+  {
+    "id": 135,
+    "topic": "Cloze Test",
+    "question": "He denied ____ the money.",
+    "options": [
+      "take",
+      "taking",
+      "took",
+      "taken"
+    ],
+    "answer": "taking"
+  },
+
+  {
+    "id": 136,
+    "topic": "Cloze Test",
+    "question": "Not only the teacher but also the students ____ present.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "were"
+  },
+  {
+    "id": 137,
+    "topic": "Cloze Test",
+    "question": "Either of the answers ____ correct.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+  {
+    "id": 138,
+    "topic": "Cloze Test",
+    "question": "He is accustomed to ____ early in the morning.",
+    "options": [
+      "wake",
+      "waking",
+      "woke",
+      "waken"
+    ],
+    "answer": "waking"
+  },
+  {
+    "id": 139,
+    "topic": "Cloze Test",
+    "question": "The project must be completed ____ the deadline.",
+    "options": [
+      "before",
+      "by",
+      "until",
+      "from"
+    ],
+    "answer": "by"
+  },
+  {
+    "id": 140,
+    "topic": "Cloze Test",
+    "question": "He is too tired ____ continue working.",
+    "options": [
+      "for",
+      "to",
+      "so",
+      "that"
+    ],
+    "answer": "to"
+  }
+]

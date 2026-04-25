@@ -1,0 +1,1272 @@
+[
+  {
+    "id": 1,
+    "topic": "Number System",
+    "question": "Find remainder when 32 is divided by 10",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 2,
+    "topic": "Number System",
+    "question": "Find remainder when 84 is divided by 2",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 3,
+    "topic": "Number System",
+    "question": "Find remainder when 26 is divided by 4",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 4,
+    "topic": "Number System",
+    "question": "Find remainder when 83 is divided by 8",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 5,
+    "topic": "Number System",
+    "question": "Find remainder when 93 is divided by 6",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 6,
+    "topic": "Number System",
+    "question": "Find remainder when 87 is divided by 3",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 7,
+    "topic": "Number System",
+    "question": "Find remainder when 96 is divided by 6",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 8,
+    "topic": "Number System",
+    "question": "Find remainder when 59 is divided by 7",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 9,
+    "topic": "Number System",
+    "question": "Find remainder when 73 is divided by 6",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 10,
+    "topic": "Number System",
+    "question": "Find remainder when 59 is divided by 8",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 11,
+    "topic": "Simplification",
+    "question": "Simplify: 25 + 10",
+    "options": [
+      "35",
+      "36",
+      "34",
+      "37"
+    ],
+    "answer": "35"
+  },
+  {
+    "id": 12,
+    "topic": "Simplification",
+    "question": "Simplify: 33 + 8",
+    "options": [
+      "41",
+      "42",
+      "40",
+      "43"
+    ],
+    "answer": "41"
+  },
+  {
+    "id": 13,
+    "topic": "Simplification",
+    "question": "Simplify: 19 + 5",
+    "options": [
+      "24",
+      "25",
+      "23",
+      "26"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 14,
+    "topic": "Simplification",
+    "question": "Simplify: 34 + 5",
+    "options": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "answer": "39"
+  },
+  {
+    "id": 15,
+    "topic": "Simplification",
+    "question": "Simplify: 21 + 6",
+    "options": [
+      "27",
+      "28",
+      "26",
+      "29"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": 16,
+    "topic": "Simplification",
+    "question": "Simplify: 49 + 7",
+    "options": [
+      "56",
+      "57",
+      "55",
+      "58"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 17,
+    "topic": "Simplification",
+    "question": "Simplify: 19 + 4",
+    "options": [
+      "23",
+      "24",
+      "22",
+      "25"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": 18,
+    "topic": "Simplification",
+    "question": "Simplify: 15 + 8",
+    "options": [
+      "23",
+      "24",
+      "22",
+      "25"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": 19,
+    "topic": "Simplification",
+    "question": "Simplify: 20 + 5",
+    "options": [
+      "25",
+      "26",
+      "24",
+      "27"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 20,
+    "topic": "Simplification",
+    "question": "Simplify: 22 + 6",
+    "options": [
+      "28",
+      "29",
+      "27",
+      "30"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": 21,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 8 and 12",
+    "options": ["24", "26", "22", "28"],
+    "answer": "24"
+  },
+  {
+    "id": 22,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 14 and 6",
+    "options": ["42", "40", "44", "48"],
+    "answer": "42"
+  },
+  {
+    "id": 23,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 9 and 10",
+    "options": ["90", "92", "88", "94"],
+    "answer": "90"
+  },
+  {
+    "id": 24,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 18 and 24",
+    "options": ["72", "70", "74", "76"],
+    "answer": "72"
+  },
+  {
+    "id": 25,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 5 and 16",
+    "options": ["80", "82", "78", "84"],
+    "answer": "80"
+  },
+  {
+    "id": 26,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 21 and 6",
+    "options": ["42", "44", "40", "48"],
+    "answer": "42"
+  },
+  {
+    "id": 27,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 13 and 7",
+    "options": ["91", "93", "89", "95"],
+    "answer": "91"
+  },
+  {
+    "id": 28,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 4 and 15",
+    "options": ["60", "62", "58", "64"],
+    "answer": "60"
+  },
+  {
+    "id": 29,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 25 and 10",
+    "options": ["50", "52", "48", "54"],
+    "answer": "50"
+  },
+  {
+    "id": 30,
+    "topic": "LCM & HCF",
+    "question": "Find LCM of 17 and 3",
+    "options": ["51", "53", "49", "55"],
+    "answer": "51"
+  },
+  {
+    "id": 31,
+    "topic": "Percentages",
+    "question": "What is 13% of 356?",
+    "options": [
+      "46",
+      "51",
+      "41",
+      "56"
+    ],
+    "answer": "46"
+  },
+  {
+    "id": 32,
+    "topic": "Percentages",
+    "question": "What is 32% of 408?",
+    "options": [
+      "130",
+      "135",
+      "125",
+      "140"
+    ],
+    "answer": "130"
+  },
+  {
+    "id": 33,
+    "topic": "Percentages",
+    "question": "What is 40% of 218?",
+    "options": [
+      "87",
+      "92",
+      "82",
+      "97"
+    ],
+    "answer": "87"
+  },
+  {
+    "id": 34,
+    "topic": "Percentages",
+    "question": "What is 26% of 235?",
+    "options": [
+      "61",
+      "66",
+      "56",
+      "71"
+    ],
+    "answer": "61"
+  },
+  {
+    "id": 35,
+    "topic": "Percentages",
+    "question": "What is 44% of 193?",
+    "options": [
+      "84",
+      "89",
+      "79",
+      "94"
+    ],
+    "answer": "84"
+  },
+  {
+    "id": 36,
+    "topic": "Percentages",
+    "question": "What is 18% of 468?",
+    "options": [
+      "84",
+      "89",
+      "79",
+      "94"
+    ],
+    "answer": "84"
+  },
+  {
+    "id": 37,
+    "topic": "Percentages",
+    "question": "What is 37% of 419?",
+    "options": [
+      "155",
+      "160",
+      "150",
+      "165"
+    ],
+    "answer": "155"
+  },
+  {
+    "id": 38,
+    "topic": "Percentages",
+    "question": "What is 46% of 426?",
+    "options": [
+      "195",
+      "200",
+      "190",
+      "205"
+    ],
+    "answer": "195"
+  },
+  {
+    "id": 39,
+    "topic": "Percentages",
+    "question": "What is 29% of 412?",
+    "options": [
+      "119",
+      "124",
+      "114",
+      "129"
+    ],
+    "answer": "119"
+  },
+  {
+    "id": 40,
+    "topic": "Percentages",
+    "question": "What is 12% of 471?",
+    "options": [
+      "56",
+      "61",
+      "51",
+      "66"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 41,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 4:3 and first=24, second=?",
+    "options": [
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 42,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 3:2 and first=30, second=?",
+    "options": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": 43,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 5:3 and first=40, second=?",
+    "options": [
+      "24",
+      "25",
+      "23",
+      "26"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 44,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 5:4 and first=40, second=?",
+    "options": [
+      "32",
+      "33",
+      "31",
+      "34"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": 45,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 4:1 and first=32, second=?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 46,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 3:1 and first=21, second=?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 47,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 3:3 and first=18, second=?",
+    "options": [
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 48,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 5:1 and first=10, second=?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 49,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 4:5 and first=40, second=?",
+    "options": [
+      "50",
+      "51",
+      "49",
+      "52"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": 50,
+    "topic": "Ratio & Proportion",
+    "question": "If ratio 5:2 and first=25, second=?",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 51,
+    "topic": "Profit & Loss",
+    "question": "CP=403, SP=429. Profit?",
+    "options": [
+      "26",
+      "31",
+      "21",
+      "36"
+    ],
+    "answer": "26"
+  },
+  {
+    "id": 52,
+    "topic": "Profit & Loss",
+    "question": "CP=121, SP=139. Profit?",
+    "options": [
+      "18",
+      "23",
+      "13",
+      "28"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 53,
+    "topic": "Profit & Loss",
+    "question": "CP=135, SP=215. Profit?",
+    "options": [
+      "80",
+      "85",
+      "75",
+      "90"
+    ],
+    "answer": "80"
+  },
+  {
+    "id": 54,
+    "topic": "Profit & Loss",
+    "question": "CP=352, SP=423. Profit?",
+    "options": [
+      "71",
+      "76",
+      "66",
+      "81"
+    ],
+    "answer": "71"
+  },
+  {
+    "id": 55,
+    "topic": "Profit & Loss",
+    "question": "CP=324, SP=367. Profit?",
+    "options": [
+      "43",
+      "48",
+      "38",
+      "53"
+    ],
+    "answer": "43"
+  },
+  {
+    "id": 56,
+    "topic": "Profit & Loss",
+    "question": "CP=230, SP=252. Profit?",
+    "options": [
+      "22",
+      "27",
+      "17",
+      "32"
+    ],
+    "answer": "22"
+  },
+  {
+    "id": 57,
+    "topic": "Profit & Loss",
+    "question": "CP=158, SP=179. Profit?",
+    "options": [
+      "21",
+      "26",
+      "16",
+      "31"
+    ],
+    "answer": "21"
+  },
+  {
+    "id": 58,
+    "topic": "Profit & Loss",
+    "question": "CP=197, SP=208. Profit?",
+    "options": [
+      "11",
+      "16",
+      "6",
+      "21"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": 59,
+    "topic": "Profit & Loss",
+    "question": "CP=272, SP=367. Profit?",
+    "options": [
+      "95",
+      "100",
+      "90",
+      "105"
+    ],
+    "answer": "95"
+  },
+  {
+    "id": 60,
+    "topic": "Profit & Loss",
+    "question": "CP=307, SP=378. Profit?",
+    "options": [
+      "71",
+      "76",
+      "66",
+      "81"
+    ],
+    "answer": "71"
+  },
+  {
+    "id": 61,
+    "topic": "Average",
+    "question": "Average of [33, 31, 27]?",
+    "options": [
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "id": 62,
+    "topic": "Average",
+    "question": "Average of [16, 29, 50]?",
+    "options": [
+      "31",
+      "32",
+      "30",
+      "33"
+    ],
+    "answer": "31"
+  },
+  {
+    "id": 63,
+    "topic": "Average",
+    "question": "Average of [36, 20, 30]?",
+    "options": [
+      "28",
+      "29",
+      "27",
+      "30"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": 64,
+    "topic": "Average",
+    "question": "Average of [45, 35, 47]?",
+    "options": [
+      "42",
+      "43",
+      "41",
+      "44"
+    ],
+    "answer": "42"
+  },
+  {
+    "id": 65,
+    "topic": "Average",
+    "question": "Average of [47, 24, 39]?",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": 66,
+    "topic": "Average",
+    "question": "Average of [22, 39, 26]?",
+    "options": [
+      "29",
+      "30",
+      "28",
+      "31"
+    ],
+    "answer": "29"
+  },
+  {
+    "id": 67,
+    "topic": "Average",
+    "question": "Average of [20, 46, 40]?",
+    "options": [
+      "35",
+      "36",
+      "34",
+      "37"
+    ],
+    "answer": "35"
+  },
+  {
+    "id": 68,
+    "topic": "Average",
+    "question": "Average of [10, 27, 46]?",
+    "options": [
+      "27",
+      "28",
+      "26",
+      "29"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": 69,
+    "topic": "Average",
+    "question": "Average of [12, 32, 11]?",
+    "options": [
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 70,
+    "topic": "Average",
+    "question": "Average of [20, 45, 15]?",
+    "options": [
+      "26",
+      "27",
+      "25",
+      "28"
+    ],
+    "answer": "26"
+  },
+  {
+    "id": 71,
+    "topic": "Time & Work",
+    "question": "A can do work in 8 days. 1 day work?",
+    "options": [
+      "1/8",
+      "1/9",
+      "1/7",
+      "1/10"
+    ],
+    "answer": "1/8"
+  },
+  {
+    "id": 72,
+    "topic": "Time & Work",
+    "question": "A can do work in 5 days. 1 day work?",
+    "options": [
+      "1/5",
+      "1/6",
+      "1/4",
+      "1/7"
+    ],
+    "answer": "1/5"
+  },
+  {
+    "id": 73,
+    "topic": "Time & Work",
+    "question": "A can do work in 20 days. 1 day work?",
+    "options": [
+      "1/20",
+      "1/21",
+      "1/19",
+      "1/22"
+    ],
+    "answer": "1/20"
+  },
+  {
+    "id": 74,
+    "topic": "Time & Work",
+    "question": "A can do work in 6 days. 1 day work?",
+    "options": [
+      "1/6",
+      "1/7",
+      "1/5",
+      "1/8"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "id": 75,
+    "topic": "Time & Work",
+    "question": "A can do work in 15 days. 1 day work?",
+    "options": [
+      "1/15",
+      "1/16",
+      "1/14",
+      "1/17"
+    ],
+    "answer": "1/15"
+  },
+  {
+    "id": 76,
+    "topic": "Time & Work",
+    "question": "A can do work in 18 days. 1 day work?",
+    "options": [
+      "1/18",
+      "1/19",
+      "1/17",
+      "1/20"
+    ],
+    "answer": "1/18"
+  },
+  {
+    "id": 77,
+    "topic": "Time & Work",
+    "question": "A can do work in 7 days. 1 day work?",
+    "options": [
+      "1/7",
+      "1/8",
+      "1/6",
+      "1/9"
+    ],
+    "answer": "1/7"
+  },
+  {
+    "id": 78,
+    "topic": "Time & Work",
+    "question": "A can do work in 19 days. 1 day work?",
+    "options": [
+      "1/19",
+      "1/20",
+      "1/18",
+      "1/21"
+    ],
+    "answer": "1/19"
+  },
+  {
+    "id": 79,
+    "topic": "Time & Work",
+    "question": "A can do work in 14 days. 1 day work?",
+    "options": [
+      "1/14",
+      "1/15",
+      "1/13",
+      "1/16"
+    ],
+    "answer": "1/14"
+  },
+  {
+    "id": 80,
+    "topic": "Time & Work",
+    "question": "A can do work in 5 days. 1 day work?",
+    "options": [
+      "1/5",
+      "1/6",
+      "1/4",
+      "1/7"
+    ],
+    "answer": "1/5"
+  },
+  {
+    "id": 81,
+    "topic": "Time Speed Distance",
+    "question": "Speed=47 km/h, Time=1 hr. Distance?",
+    "options": [
+      "47",
+      "57",
+      "37",
+      "67"
+    ],
+    "answer": "47"
+  },
+  {
+    "id": 82,
+    "topic": "Time Speed Distance",
+    "question": "Speed=47 km/h, Time=4 hr. Distance?",
+    "options": [
+      "188",
+      "198",
+      "178",
+      "208"
+    ],
+    "answer": "188"
+  },
+  {
+    "id": 83,
+    "topic": "Time Speed Distance",
+    "question": "Speed=38 km/h, Time=4 hr. Distance?",
+    "options": [
+      "152",
+      "162",
+      "142",
+      "172"
+    ],
+    "answer": "152"
+  },
+  {
+    "id": 84,
+    "topic": "Time Speed Distance",
+    "question": "Speed=79 km/h, Time=3 hr. Distance?",
+    "options": [
+      "237",
+      "247",
+      "227",
+      "257"
+    ],
+    "answer": "237"
+  },
+  {
+    "id": 85,
+    "topic": "Time Speed Distance",
+    "question": "Speed=64 km/h, Time=4 hr. Distance?",
+    "options": [
+      "256",
+      "266",
+      "246",
+      "276"
+    ],
+    "answer": "256"
+  },
+  {
+    "id": 86,
+    "topic": "Time Speed Distance",
+    "question": "Speed=42 km/h, Time=3 hr. Distance?",
+    "options": [
+      "126",
+      "136",
+      "116",
+      "146"
+    ],
+    "answer": "126"
+  },
+  {
+    "id": 87,
+    "topic": "Time Speed Distance",
+    "question": "Speed=50 km/h, Time=2 hr. Distance?",
+    "options": [
+      "100",
+      "110",
+      "90",
+      "120"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": 88,
+    "topic": "Time Speed Distance",
+    "question": "Speed=68 km/h, Time=3 hr. Distance?",
+    "options": [
+      "204",
+      "214",
+      "194",
+      "224"
+    ],
+    "answer": "204"
+  },
+  {
+    "id": 89,
+    "topic": "Time Speed Distance",
+    "question": "Speed=68 km/h, Time=1 hr. Distance?",
+    "options": [
+      "68",
+      "78",
+      "58",
+      "88"
+    ],
+    "answer": "68"
+  },
+  {
+    "id": 90,
+    "topic": "Time Speed Distance",
+    "question": "Speed=50 km/h, Time=1 hr. Distance?",
+    "options": [
+      "50",
+      "60",
+      "40",
+      "70"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": 91,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=1767, R=10%, T=1yr",
+    "options": [
+      "176",
+      "226",
+      "126",
+      "276"
+    ],
+    "answer": "176"
+  },
+  {
+    "id": 92,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=2152, R=10%, T=1yr",
+    "options": [
+      "215",
+      "265",
+      "165",
+      "315"
+    ],
+    "answer": "215"
+  },
+  {
+    "id": 93,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=4108, R=10%, T=1yr",
+    "options": [
+      "410",
+      "460",
+      "360",
+      "510"
+    ],
+    "answer": "410"
+  },
+  {
+    "id": 94,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=2301, R=10%, T=1yr",
+    "options": [
+      "230",
+      "280",
+      "180",
+      "330"
+    ],
+    "answer": "230"
+  },
+  {
+    "id": 95,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=4568, R=10%, T=1yr",
+    "options": [
+      "456",
+      "506",
+      "406",
+      "556"
+    ],
+    "answer": "456"
+  },
+  {
+    "id": 96,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=3667, R=10%, T=1yr",
+    "options": [
+      "366",
+      "416",
+      "316",
+      "466"
+    ],
+    "answer": "366"
+  },
+  {
+    "id": 97,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=4323, R=10%, T=1yr",
+    "options": [
+      "432",
+      "482",
+      "382",
+      "532"
+    ],
+    "answer": "432"
+  },
+  {
+    "id": 98,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=3148, R=10%, T=1yr",
+    "options": [
+      "314",
+      "364",
+      "264",
+      "414"
+    ],
+    "answer": "314"
+  },
+  {
+    "id": 99,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=3685, R=10%, T=1yr",
+    "options": [
+      "368",
+      "418",
+      "318",
+      "468"
+    ],
+    "answer": "368"
+  },
+  {
+    "id": 100,
+    "topic": "Simple & Compound Interest",
+    "question": "Find SI for P=4702, R=10%, T=1yr",
+    "options": [
+      "470",
+      "520",
+      "420",
+      "570"
+    ],
+    "answer": "470"
+  },
+  {
+    "id": 101,
+    "topic": "Data Interpretation",
+    "question": "Total of values 427 and 210?",
+    "options": [
+      "637",
+      "647",
+      "627",
+      "657"
+    ],
+    "answer": "637"
+  },
+  {
+    "id": 102,
+    "topic": "Data Interpretation",
+    "question": "Total of values 312 and 394?",
+    "options": [
+      "706",
+      "716",
+      "696",
+      "726"
+    ],
+    "answer": "706"
+  },
+  {
+    "id": 103,
+    "topic": "Data Interpretation",
+    "question": "Total of values 219 and 329?",
+    "options": [
+      "548",
+      "558",
+      "538",
+      "568"
+    ],
+    "answer": "548"
+  },
+  {
+    "id": 104,
+    "topic": "Data Interpretation",
+    "question": "Total of values 292 and 496?",
+    "options": [
+      "788",
+      "798",
+      "778",
+      "808"
+    ],
+    "answer": "788"
+  },
+  {
+    "id": 105,
+    "topic": "Data Interpretation",
+    "question": "Total of values 434 and 251?",
+    "options": [
+      "685",
+      "695",
+      "675",
+      "705"
+    ],
+    "answer": "685"
+  },
+  {
+    "id": 106,
+    "topic": "Data Interpretation",
+    "question": "Total of values 347 and 431?",
+    "options": [
+      "778",
+      "788",
+      "768",
+      "798"
+    ],
+    "answer": "778"
+  },
+  {
+    "id": 107,
+    "topic": "Data Interpretation",
+    "question": "Total of values 179 and 362?",
+    "options": [
+      "541",
+      "551",
+      "531",
+      "561"
+    ],
+    "answer": "541"
+  },
+  {
+    "id": 108,
+    "topic": "Data Interpretation",
+    "question": "Total of values 101 and 377?",
+    "options": [
+      "478",
+      "488",
+      "468",
+      "498"
+    ],
+    "answer": "478"
+  },
+  {
+    "id": 109,
+    "topic": "Data Interpretation",
+    "question": "Total of values 130 and 494?",
+    "options": [
+      "624",
+      "634",
+      "614",
+      "644"
+    ],
+    "answer": "624"
+  },
+  {
+    "id": 110,
+    "topic": "Data Interpretation",
+    "question": "Total of values 345 and 242?",
+    "options": [
+      "587",
+      "597",
+      "577",
+      "607"
+    ],
+    "answer": "587"
+  }
+]

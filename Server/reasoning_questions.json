@@ -1,0 +1,709 @@
+[
+  
+  {
+    "id": 1,
+    "topic": "Number Series",
+    "question": "Find next number: [2, 4, 6, 8]",
+    "options": ["10", "11", "9", "12"],
+    "answer": "10"
+  },
+  {
+    "id": 2,
+    "topic": "Number Series",
+    "question": "Find next number: [1, 3, 6, 10]",
+    "options": ["15", "14", "16", "13"],
+    "answer": "15"
+  },
+  {
+    "id": 3,
+    "topic": "Number Series",
+    "question": "Find next number: [5, 10, 20, 40]",
+    "options": ["80", "70", "60", "90"],
+    "answer": "80"
+  },
+  {
+    "id": 4,
+    "topic": "Number Series",
+    "question": "Find next number: [3, 9, 27, 81]",
+    "options": ["243", "200", "250", "260"],
+    "answer": "243"
+  },
+  {
+    "id": 5,
+    "topic": "Number Series",
+    "question": "Find next number: [7, 14, 21, 28]",
+    "options": ["35", "36", "34", "37"],
+    "answer": "35"
+  },
+  {
+    "id": 6,
+    "topic": "Number Series",
+    "question": "Find next number: [1, 4, 9, 16]",
+    "options": ["25", "24", "26", "23"],
+    "answer": "25"
+  },
+  {
+    "id": 7,
+    "topic": "Number Series",
+    "question": "Find next number: [2, 6, 7, 21, 22]",
+    "options": ["66", "44", "46", "68"],
+    "answer": "66"
+  },
+  {
+    "id": 8,
+    "topic": "Number Series",
+    "question": "Find next number: [11, 13, 17, 19]",
+    "options": ["23", "21", "25", "27"],
+    "answer": "23"
+  },
+  {
+    "id": 9,
+    "topic": "Number Series",
+    "question": "Find next number: [4, 6, 9, 13]",
+    "options": ["18", "17", "16", "19"],
+    "answer": "18"
+  },
+  {
+    "id": 10,
+    "topic": "Number Series",
+    "question": "Find next number: [8, 16, 24, 32]",
+    "options": ["40", "42", "38", "44"],
+    "answer": "40"
+  },
+
+  {
+    "id": 11,
+    "topic": "Coding – Decoding",
+    "question": "If CAT = DBU, then SUN = ?",
+    "options": ["TVO", "TVN", "UVN", "SVN"],
+    "answer": "TVO"
+  },
+  {
+    "id": 12,
+    "topic": "Coding – Decoding",
+    "question": "If DOG = EPH, then CAT = ?",
+    "options": ["DBU", "DCU", "EBU", "DAU"],
+    "answer": "DBU"
+  },
+  {
+    "id": 13,
+    "topic": "Coding – Decoding",
+    "question": "If PEN = QFO, then BOOK = ?",
+    "options": ["CPPL", "CPQM", "CPPL", "DQQM"],
+    "answer": "CPPL"
+  },
+  {
+    "id": 14,
+    "topic": "Coding – Decoding",
+    "question": "If SKY = TLZ, then SEA = ?",
+    "options": ["TFB", "TEB", "UFB", "TFD"],
+    "answer": "TFB"
+  },
+  {
+    "id": 15,
+    "topic": "Coding – Decoding",
+    "question": "If BAT = DCV, then BALL = ?",
+    "options": ["DCNN", "DCMM", "EBMM", "DCMN"],
+    "answer": "DCMM"
+  },
+  {
+    "id": 16,
+    "topic": "Coding – Decoding",
+    "question": "If MAP = NBQ, then CAR = ?",
+    "options": ["DBS", "DBQ", "CBR", "EBS"],
+    "answer": "DBS"
+  },
+  {
+    "id": 17,
+    "topic": "Coding – Decoding",
+    "question": "If RED = SFE, then BLUE = ?",
+    "options": ["CMVF", "CMWF", "CMVE", "DMWF"],
+    "answer": "CMVF"
+  },
+  {
+    "id": 18,
+    "topic": "Coding – Decoding",
+    "question": "If BOX = CPY, then TOY = ?",
+    "options": ["UPZ", "UQZ", "UPY", "VPZ"],
+    "answer": "UPZ"
+  },
+  {
+    "id": 19,
+    "topic": "Coding – Decoding",
+    "question": "If FAN = GBO, then HAT = ?",
+    "options": ["IBU", "IBT", "JBU", "HBU"],
+    "answer": "IBU"
+  },
+  {
+    "id": 20,
+    "topic": "Coding – Decoding",
+    "question": "If CUP = DVQ, then MUG = ?",
+    "options": ["NVH", "NVG", "OVH", "OVG"],
+    "answer": "NVH"
+  },
+
+  {
+    "id": 21,
+    "topic": "Analogy",
+    "question": "Pen : Write :: Brush : ?",
+    "options": ["Paint", "Draw", "Clean", "Erase"],
+    "answer": "Paint"
+  },
+  {
+    "id": 22,
+    "topic": "Analogy",
+    "question": "Teacher : School :: Doctor : ?",
+    "options": ["Hospital", "Clinic", "Medicine", "Nurse"],
+    "answer": "Hospital"
+  },
+  {
+    "id": 23,
+    "topic": "Analogy",
+    "question": "Bird : Fly :: Fish : ?",
+    "options": ["Swim", "Run", "Walk", "Jump"],
+    "answer": "Swim"
+  },
+  {
+    "id": 24,
+    "topic": "Analogy",
+    "question": "Sun : Day :: Moon : ?",
+    "options": ["Night", "Evening", "Morning", "Light"],
+    "answer": "Night"
+  },
+  {
+    "id": 25,
+    "topic": "Analogy",
+    "question": "Car : Drive :: Plane : ?",
+    "options": ["Fly", "Run", "Sail", "Ride"],
+    "answer": "Fly"
+  },
+  {
+    "id": 26,
+    "topic": "Analogy",
+    "question": "Knife : Cut :: Scissors : ?",
+    "options": ["Cut", "Tear", "Break", "Split"],
+    "answer": "Cut"
+  },
+  {
+    "id": 27,
+    "topic": "Analogy",
+    "question": "Book : Read :: Song : ?",
+    "options": ["Sing", "Listen", "Play", "Write"],
+    "answer": "Listen"
+  },
+  {
+    "id": 28,
+    "topic": "Analogy",
+    "question": "Fire : Hot :: Ice : ?",
+    "options": ["Cold", "Cool", "Freeze", "Chill"],
+    "answer": "Cold"
+  },
+  {
+    "id": 29,
+    "topic": "Analogy",
+    "question": "Clock : Time :: Thermometer : ?",
+    "options": ["Temperature", "Heat", "Cold", "Weather"],
+    "answer": "Temperature"
+  },
+  {
+    "id": 30,
+    "topic": "Analogy",
+    "question": "Shoes : Feet :: Gloves : ?",
+    "options": ["Hands", "Legs", "Head", "Arms"],
+    "answer": "Hands"
+  },
+  {
+    "id": 31,
+    "topic": "Classification",
+    "question": "Find odd one out: Dog, Cat, Cow, Tiger",
+    "options": ["Dog", "Cat", "Cow", "Tiger"],
+    "answer": "Tiger"
+  },
+  {
+    "id": 32,
+    "topic": "Classification",
+    "question": "Find odd one out: Rose, Lotus, Lily, Carrot",
+    "options": ["Rose", "Lotus", "Lily", "Carrot"],
+    "answer": "Carrot"
+  },
+  {
+    "id": 33,
+    "topic": "Classification",
+    "question": "Find odd one out: Circle, Square, Triangle, Rectangle",
+    "options": ["Circle", "Square", "Triangle", "Rectangle"],
+    "answer": "Circle"
+  },
+  {
+    "id": 34,
+    "topic": "Classification",
+    "question": "Find odd one out: Gold, Silver, Iron, Wood",
+    "options": ["Gold", "Silver", "Iron", "Wood"],
+    "answer": "Wood"
+  },
+  {
+    "id": 35,
+    "topic": "Classification",
+    "question": "Find odd one out: Mango, Banana, Apple, Potato",
+    "options": ["Mango", "Banana", "Apple", "Potato"],
+    "answer": "Potato"
+  },
+  {
+    "id": 36,
+    "topic": "Classification",
+    "question": "Find odd one out: Table, Chair, Sofa, Car",
+    "options": ["Table", "Chair", "Sofa", "Car"],
+    "answer": "Car"
+  },
+  {
+    "id": 37,
+    "topic": "Classification",
+    "question": "Find odd one out: Pen, Pencil, Eraser, Book",
+    "options": ["Pen", "Pencil", "Eraser", "Book"],
+    "answer": "Book"
+  },
+  {
+    "id": 38,
+    "topic": "Classification",
+    "question": "Find odd one out: January, February, March, Sunday",
+    "options": ["January", "February", "March", "Sunday"],
+    "answer": "Sunday"
+  },
+  {
+    "id": 39,
+    "topic": "Classification",
+    "question": "Find odd one out: Cow, Goat, Lion, Dog",
+    "options": ["Cow", "Goat", "Lion", "Dog"],
+    "answer": "Lion"
+  },
+  {
+    "id": 40,
+    "topic": "Classification",
+    "question": "Find odd one out: Bus, Train, Bicycle, Aeroplane",
+    "options": ["Bus", "Train", "Bicycle", "Aeroplane"],
+    "answer": "Bicycle"
+  },
+
+  {
+    "id": 41,
+    "topic": "Blood Relations",
+    "question": "Anil is the father of Ravi. Ravi is the brother of Sita. What is Anil to Sita?",
+    "options": ["Father", "Uncle", "Grandfather", "Brother"],
+    "answer": "Father"
+  },
+  {
+    "id": 42,
+    "topic": "Blood Relations",
+    "question": "Meena is the sister of Raju. Raju is the son of Gopal. What is Meena to Gopal?",
+    "options": ["Daughter", "Mother", "Sister", "Aunt"],
+    "answer": "Daughter"
+  },
+  {
+    "id": 43,
+    "topic": "Blood Relations",
+    "question": "Rahul is the brother of Neha. Neha is the mother of Kiran. What is Rahul to Kiran?",
+    "options": ["Uncle", "Father", "Brother", "Grandfather"],
+    "answer": "Uncle"
+  },
+  {
+    "id": 44,
+    "topic": "Blood Relations",
+    "question": "A is the mother of B. B is the father of C. What is A to C?",
+    "options": ["Grandmother", "Mother", "Aunt", "Sister"],
+    "answer": "Grandmother"
+  },
+  {
+    "id": 45,
+    "topic": "Blood Relations",
+    "question": "P is the son of Q. Q is the sister of R. What is P to R?",
+    "options": ["Nephew", "Son", "Brother", "Cousin"],
+    "answer": "Nephew"
+  },
+  {
+    "id": 46,
+    "topic": "Blood Relations",
+    "question": "X is the father of Y. Y is the mother of Z. What is X to Z?",
+    "options": ["Grandfather", "Father", "Uncle", "Brother"],
+    "answer": "Grandfather"
+  },
+  {
+    "id": 47,
+    "topic": "Blood Relations",
+    "question": "Sita is the mother of Gita. Gita is the sister of Ram. What is Sita to Ram?",
+    "options": ["Mother", "Aunt", "Sister", "Grandmother"],
+    "answer": "Mother"
+  },
+  {
+    "id": 48,
+    "topic": "Blood Relations",
+    "question": "Aman is the son of Raj. Raj is the brother of Mohan. What is Aman to Mohan?",
+    "options": ["Nephew", "Son", "Brother", "Uncle"],
+    "answer": "Nephew"
+  },
+  {
+    "id": 49,
+    "topic": "Blood Relations",
+    "question": "K is the brother of L. L is the father of M. What is K to M?",
+    "options": ["Uncle", "Father", "Brother", "Grandfather"],
+    "answer": "Uncle"
+  },
+  {
+    "id": 50,
+    "topic": "Blood Relations",
+    "question": "Ravi is the father of Sunil. Sunil is the father of Ajay. What is Ravi to Ajay?",
+    "options": ["Grandfather", "Father", "Uncle", "Brother"],
+    "answer": "Grandfather"
+  },
+
+  {
+    "id": 51,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 10m north then 5m east. Where is he now?",
+    "options": ["North-East", "South-East", "North-West", "South-West"],
+    "answer": "North-East"
+  },
+  {
+    "id": 52,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 5m south then 10m east. Where is he now?",
+    "options": ["South-East", "North-East", "South-West", "North-West"],
+    "answer": "South-East"
+  },
+  {
+    "id": 53,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 8m west then 6m north. Where is he now?",
+    "options": ["North-West", "South-West", "North-East", "South-East"],
+    "answer": "North-West"
+  },
+  {
+    "id": 54,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 7m south then 3m west. Where is he now?",
+    "options": ["South-West", "North-West", "South-East", "North-East"],
+    "answer": "South-West"
+  },
+  {
+    "id": 55,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 6m north, then 6m south. Where is he now?",
+    "options": ["Same place", "North", "South", "East"],
+    "answer": "Same place"
+  },
+  {
+    "id": 56,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 4m east, 4m north, 4m west. Where is he now?",
+    "options": ["North", "South", "East", "West"],
+    "answer": "North"
+  },
+  {
+    "id": 57,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 10m west then 10m east. Where is he now?",
+    "options": ["Same place", "North", "South", "West"],
+    "answer": "Same place"
+  },
+  {
+    "id": 58,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 3m north, 3m east, 3m south. Where is he now?",
+    "options": ["East", "West", "North", "South"],
+    "answer": "East"
+  },
+  {
+    "id": 59,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 5m south, 5m west, 5m north. Where is he now?",
+    "options": ["West", "East", "North", "South"],
+    "answer": "West"
+  },
+  {
+    "id": 60,
+    "topic": "Direction Sense Test",
+    "question": "A person walks 2m east, 2m north, 2m east. Where is he now?",
+    "options": ["North-East", "East", "North", "South-East"],
+    "answer": "North-East"
+  },
+  {
+    "id": 61,
+    "topic": "Seating Arrangement",
+    "question": "A, B, C, D are sitting in a row. C is between B and D. Who is at one end?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "topic": "Seating Arrangement",
+    "question": "P, Q, R are sitting in a row. Q is to the right of P. Who is in the middle?",
+    "options": ["P", "Q", "R", "Cannot say"],
+    "answer": "Q"
+  },
+  {
+    "id": 63,
+    "topic": "Seating Arrangement",
+    "question": "A, B, C are sitting in a row. A is on the left of B and C is on the right of B. Who is in the middle?",
+    "options": ["A", "B", "C", "None"],
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "topic": "Seating Arrangement",
+    "question": "Five people sit in a row. A is at one end, B is next to A. Who is definitely not in the middle?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "topic": "Seating Arrangement",
+    "question": "A, B, C are sitting. B is not at any end. Who is in the middle?",
+    "options": ["A", "B", "C", "None"],
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "topic": "Seating Arrangement",
+    "question": "In a row, A is to the left of B and B is to the left of C. Who is at the right end?",
+    "options": ["A", "B", "C", "None"],
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "topic": "Seating Arrangement",
+    "question": "A, B, C, D sit in a row. A is at left end and D is at right end. Who sits between B and C?",
+    "options": ["A", "D", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 68,
+    "topic": "Seating Arrangement",
+    "question": "P, Q, R, S sit in a row. Q is between P and R. Who is next to Q?",
+    "options": ["P and R", "R and S", "P and S", "Only P"],
+    "answer": "P and R"
+  },
+  {
+    "id": 69,
+    "topic": "Seating Arrangement",
+    "question": "A, B, C sit in a row. C is not at any end. Who is at the ends?",
+    "options": ["A and B", "B and C", "A and C", "None"],
+    "answer": "A and B"
+  },
+  {
+    "id": 70,
+    "topic": "Seating Arrangement",
+    "question": "In a row, B is to the right of A and C is to the right of B. Who is in the middle?",
+    "options": ["A", "B", "C", "None"],
+    "answer": "B"
+  },
+
+  {
+    "id": 71,
+    "topic": "Syllogism",
+    "question": "All roses are flowers. Some flowers are red. Conclusion: Some roses are red?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 72,
+    "topic": "Syllogism",
+    "question": "All pens are blue. Some blue things are pencils. Conclusion: Some pens are pencils?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 73,
+    "topic": "Syllogism",
+    "question": "All dogs are animals. All animals are living beings. Conclusion: All dogs are living beings?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 74,
+    "topic": "Syllogism",
+    "question": "No cats are dogs. Some dogs are pets. Conclusion: Some cats are pets?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 75,
+    "topic": "Syllogism",
+    "question": "All apples are fruits. All fruits are healthy. Conclusion: All apples are healthy?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 76,
+    "topic": "Syllogism",
+    "question": "Some cars are fast. Some fast things are bikes. Conclusion: Some cars are bikes?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 77,
+    "topic": "Syllogism",
+    "question": "All teachers are educated. Some educated people are writers. Conclusion: Some teachers are writers?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 78,
+    "topic": "Syllogism",
+    "question": "No birds are mammals. All mammals are animals. Conclusion: No birds are animals?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 79,
+    "topic": "Syllogism",
+    "question": "All books are papers. Some papers are white. Conclusion: Some books are white?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 80,
+    "topic": "Syllogism",
+    "question": "All students are learners. All learners are humans. Conclusion: All students are humans?",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  },
+
+  {
+    "id": 81,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 3, 6, 12, 24, ?",
+    "options": ["48", "50", "46", "52"],
+    "answer": "48"
+  },
+  {
+    "id": 82,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 1, 1, 2, 3, 5, ?",
+    "options": ["8", "7", "9", "6"],
+    "answer": "8"
+  },
+  {
+    "id": 83,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 2, 5, 10, 17, ?",
+    "options": ["26", "24", "25", "27"],
+    "answer": "26"
+  },
+  {
+    "id": 84,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 4, 9, 16, 25, ?",
+    "options": ["36", "35", "34", "37"],
+    "answer": "36"
+  },
+  {
+    "id": 85,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 7, 14, 28, 56, ?",
+    "options": ["112", "110", "108", "120"],
+    "answer": "112"
+  },
+  {
+    "id": 86,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 5, 11, 23, 47, ?",
+    "options": ["95", "96", "97", "98"],
+    "answer": "95"
+  },
+  {
+    "id": 87,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 10, 20, 30, 40, ?",
+    "options": ["50", "52", "48", "54"],
+    "answer": "50"
+  },
+  {
+    "id": 88,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 2, 3, 5, 7, 11, ?",
+    "options": ["13", "15", "17", "19"],
+    "answer": "13"
+  },
+  {
+    "id": 89,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 6, 12, 18, 24, ?",
+    "options": ["30", "32", "28", "34"],
+    "answer": "30"
+  },
+  {
+    "id": 90,
+    "topic": "Logical Puzzles",
+    "question": "Find missing: 9, 18, 27, 36, ?",
+    "options": ["45", "44", "46", "48"],
+    "answer": "45"
+  },
+  {
+    "id": 91,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: All dogs are animals. Conclusion: Some animals are dogs.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 92,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: All cats are mammals. Conclusion: All mammals are cats.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "False"
+  },
+  {
+    "id": 93,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: Some cars are electric. Conclusion: All cars are electric.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "False"
+  },
+  {
+    "id": 94,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: All birds can fly. Conclusion: Sparrow can fly.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 95,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: Some students are intelligent. Conclusion: Some intelligent people are students.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 96,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: No fruits are vegetables. Conclusion: Some vegetables are fruits.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "False"
+  },
+  {
+    "id": 97,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: All pens are blue. Conclusion: This pen is blue.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "Cannot say"
+  },
+  {
+    "id": 98,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: Some books are interesting. Conclusion: All books are interesting.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "False"
+  },
+  {
+    "id": 99,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: All teachers are educated. Conclusion: Some educated people are teachers.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 100,
+    "topic": "Statement and Conclusion",
+    "question": "Statement: Some flowers are red. Conclusion: Some red things are flowers.",
+    "options": ["True", "False", "Cannot say", "None"],
+    "answer": "True"
+  }
+]
