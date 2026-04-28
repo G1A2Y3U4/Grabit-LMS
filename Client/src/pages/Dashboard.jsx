@@ -24,7 +24,7 @@ function Dashboard({ open }) {
       }
 
       const res = await axios.get(
-        `http://localhost:5000/api/results/all/${user.id}`
+        `https://grabit-backend-iz6n.onrender.com/api/results/all/${user.id}`
       );
 
       setResults(res.data.results || []);

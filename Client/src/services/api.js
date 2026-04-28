@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://grabit-backend-iz6n.onrender.com/api"
 });
 
 export const getQuestions = (topic) =>

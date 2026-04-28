@@ -101,7 +101,7 @@ function TopicPage() {
       setLoading(true);
 
       const res = await axios.get(
-        `http://localhost:5000/api/questions/${encodeURIComponent(topic)}`
+        `https://grabit-backend-iz6n.onrender.com/api/questions/${encodeURIComponent(topic)}`
       );
 
       const fetchedQuestions = res.data.questions || [];
@@ -160,7 +160,7 @@ const handleSubmit = async () => {
     // ✅ USE IT HERE
     const user = JSON.parse(localStorage.getItem("user"));
 
-    await axios.post("http://localhost:5000/api/results/save", {
+    await axios.post("https://grabit-backend-iz6n.onrender.com/api/results/save", {
       user_id: user?.id || null,
       test_type: "topic",
       section_type: sectionType,

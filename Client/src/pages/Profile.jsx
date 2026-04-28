@@ -49,7 +49,7 @@ function Profile() {
       setLoadingProfile(true);
 
       const res = await axios.put(
-        `http://localhost:5000/api/profile/update/${storedUser.id}`, // ✅ NEW ROUTE
+        `https://grabit-backend-iz6n.onrender.com/api/profile/update/${storedUser.id}`, // ✅ NEW ROUTE
         {
           username: username.trim(),
           email: email.trim(),
@@ -102,7 +102,7 @@ function Profile() {
       setLoadingPassword(true);
 
       const res = await axios.put(
-        `http://localhost:5000/api/password/change/${storedUser.id}`, // ✅ NEW ROUTE
+        `https://grabit-backend-iz6n.onrender.com/api/password/change/${storedUser.id}`, // ✅ NEW ROUTE
         {
           currentPassword,
           newPassword,

@@ -31,7 +31,7 @@ function MockTestPage() {
   const fetchQuestions = async () => {
     try {
       const res = await axios.get(
-        "http://localhost:5000/api/questions/mock/test"
+        "https://grabit-backend-iz6n.onrender.com/api/questions/mock/test"
       );
       setQuestions(res.data.questions || []);
     } catch (err) {
